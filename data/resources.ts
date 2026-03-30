@@ -66,6 +66,25 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
   {
+    id: "Stone Golem",
+    title: "石像鬼",
+    description: "石像鬼，高度 3.2 米",
+    category: "blueprints",
+    tags: ["角色", "第三人称"],
+    images: [
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeic7hnhgmx73hvuhia43ndnlzu5xosgga3pk5zbjtwxu3lpnbg4xuu/02dcee72-0988-4378-ba15-b2ad5785f4fc.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeic7hnhgmx73hvuhia43ndnlzu5xosgga3pk5zbjtwxu3lpnbg4xuu/4ee1978c-7ec7-4a2b-870f-fc0b7adcadc8.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeic7hnhgmx73hvuhia43ndnlzu5xosgga3pk5zbjtwxu3lpnbg4xuu/d1ab22fb-c795-470e-b279-0d997169f084.jpg",
+    ],
+    downloadUrl: " https://pan.baidu.com/s/1F5SMj5AJUOQVFDhVlkdJuA?pwd=44pn",
+    demoUrl: "https://www.fab.com/listings/89b16c3a-47ea-486e-ac09-bc2237af93f9",
+    version: "3.0",
+    ueVersion: "4.26 - 5.7",
+    fileSize: "138.78 MB",
+    createdAt: "2026-03-30",
+    featured: true,
+  },
+  {
     id: "ultra-dynamic-sky",
     title: "动态天空系统蓝图",
     description: "Ultra Dynamic Sky 是一款天空系统，其设计理念是比大多数天空解决方案更动态、更自然，提供高度的灵活性和自定义选项，并采用速度快、操作简单的界面。",
