@@ -66,6 +66,25 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
   {
+    id: "Ultra Dynamic Sky",
+    title: "动态天空系统蓝图",
+    description: "Ultra Dynamic Sky 是一款天空系统，其设计理念是比大多数天空解决方案更动态、更自然，提供高度的灵活性和自定义选项，并采用速度快、操作简单的界面。",
+    category: "blueprints",
+    tags: ["角色", "运动", "动画", "第三人称", "状态机"],
+    images: [
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibhnv565homistcvmcjbnexlqay3keb64pw6u6b4gmvxufg6vjcgq/1.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibhnv565homistcvmcjbnexlqay3keb64pw6u6b4gmvxufg6vjcgq/2.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibhnv565homistcvmcjbnexlqay3keb64pw6u6b4gmvxufg6vjcgq/3.jpg",
+    ],
+    downloadUrl: "https://pan.baidu.com/s/1iXZvEWp9G9lsex47smYstg?pwd=6s5o",
+    demoUrl: "https://www.fab.com/listings/84fda27a-c79f-49c9-8458-82401fb37cfb",
+    version: "9.3",
+    ueVersion: "4.25-5.7",
+    fileSize: "425 MB",
+    createdAt: "2026-03-30",
+    featured: true,
+  },
+  {
     id: "advanced-locomotion-system",
     title: "高级运动系统 V4",
     description: "一套完整的角色运动蓝图系统，支持行走、跑步、跳跃、攀爬、游泳等多种运动状态。包含完整的状态机设置和动画混合树，可直接应用于第三人称游戏开发。系统经过高度优化，适合各种规模的项目。",
