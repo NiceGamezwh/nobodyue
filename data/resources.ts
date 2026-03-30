@@ -66,6 +66,25 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
   {
+    id: "Ancient-Temple-Ruins-Modular-Environment",
+    title: "古代寺庙遗址 - 模块化环境",
+    description: "该项目需要 Nanite 和 Lumen，素材的面数密度极高，因此需要高端 PC。项目以第三人称角色控制器运行，帧率在 30fps 到 40fps 之间，采用 Epic 可扩展性预设、70% 渲染比例和启用时间超分辨率 (TSR)。网格中不包含光照贴图或LOD。RTX 2080显卡，Threadripper 1950x处理器，64GB DDR4内存，1440p分辨率，固态硬盘。",
+    category: "environments",
+    tags: ["场景", "环境", "模块化环境", "遗址", "寺庙", "古代"],
+    images: [
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeieloxwevbl7jcauj3ypam5aohdpevc5ijmwncuhmcvcmoycxtgzpy/1.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeieloxwevbl7jcauj3ypam5aohdpevc5ijmwncuhmcvcmoycxtgzpy/2.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeieloxwevbl7jcauj3ypam5aohdpevc5ijmwncuhmcvcmoycxtgzpy/3.jpg",
+    ],
+    downloadUrl: "  https://pan.baidu.com/s/1lmvye-mFn4yi8kfuxGwzww?pwd=netd",
+    demoUrl: "https://www.fab.com/listings/460311fc-fd70-4660-ac6f-1d5aac245f5c",
+    version: "1.0",
+    ueVersion: "5.2 - 5.7",
+    fileSize: "2.63 GB",
+    createdAt: "2026-03-30",
+    featured: true,
+  },
+  {
     id: "Scrapopolis-Steampunk-village",
     title: "废料城——蒸汽朋克村庄",
     description: "使用Scrapopolis ，步入一个铜质蒸汽朋克世界。Scrapopolis是一个完全模块化、支持 PBR 的资源包，适用于电影和游戏。游戏特色包括：锈迹斑斑的机械构成的阴暗村庄、岩石遍布的沼泽地形、程序生成的水坑、手工制作的体积雾和烟雾/云。优化的性能、自定义碰撞和模块化灵活性使其成为打造工业或后末日场景的理想选择",
