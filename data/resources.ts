@@ -66,7 +66,7 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
   {
-    id: "Ultra Dynamic Sky",
+    id: "ultra-dynamic-sky",
     title: "动态天空系统蓝图",
     description: "Ultra Dynamic Sky 是一款天空系统，其设计理念是比大多数天空解决方案更动态、更自然，提供高度的灵活性和自定义选项，并采用速度快、操作简单的界面。",
     category: "blueprints",
