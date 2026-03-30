@@ -66,6 +66,25 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
   {
+    id: "Scrapopolis-Steampunk-village",
+    title: "废料城——蒸汽朋克村庄",
+    description: "使用Scrapopolis ，步入一个铜质蒸汽朋克世界。Scrapopolis是一个完全模块化、支持 PBR 的资源包，适用于电影和游戏。游戏特色包括：锈迹斑斑的机械构成的阴暗村庄、岩石遍布的沼泽地形、程序生成的水坑、手工制作的体积雾和烟雾/云。优化的性能、自定义碰撞和模块化灵活性使其成为打造工业或后末日场景的理想选择",
+    category: "environments",
+    tags: ["场景", "环境", "蒸汽朋克", "村庄", "废土", "末世"],
+    images: [
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeiat42oizjhdbvbnywy43jgw36merhsiuoziebbh54dh7whaf5r5lu/1.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeiat42oizjhdbvbnywy43jgw36merhsiuoziebbh54dh7whaf5r5lu/2.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeiat42oizjhdbvbnywy43jgw36merhsiuoziebbh54dh7whaf5r5lu/3.jpg",
+    ],
+    downloadUrl: " https://pan.baidu.com/s/1sQGaoIManPhL0W5UOgmsLQ?pwd=m4jv",
+    demoUrl: "https://www.fab.com/listings/fa19fa3a-62e4-4528-82dc-19bc66521f3b",
+    version: "1.0",
+    ueVersion: "5.1 - 5.7",
+    fileSize: "572 MB",
+    createdAt: "2026-03-30",
+    featured: true,
+  },
+  {
     id: "Stylized-Spruce-Forest",
     title: "风格化云杉林场景",
     description: "风格化的云杉林，包含优化资源、风系统、程序化季节和可绘制的自动材质。使用材质实例和全局材质参数集合即可轻松自定义。",
