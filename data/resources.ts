@@ -69,7 +69,7 @@ export const resources: Resource[] = [
     id: "Stone Golem",
     title: "石像鬼",
     description: "石像鬼，高度 3.2 米",
-    category: "blueprints",
+    category: "models",
     tags: ["角色", "第三人称"],
     images: [
       "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeic7hnhgmx73hvuhia43ndnlzu5xosgga3pk5zbjtwxu3lpnbg4xuu/02dcee72-0988-4378-ba15-b2ad5785f4fc.jpg",
