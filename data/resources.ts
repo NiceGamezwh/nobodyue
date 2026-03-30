@@ -66,6 +66,25 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
   {
+    id: "Stylized Spruce Forest",
+    title: "风格化云杉林场景",
+    description: "风格化的云杉林，包含优化资源、风系统、程序化季节和可绘制的自动材质。使用材质实例和全局材质参数集合即可轻松自定义。",
+    category: "environments",
+    tags: ["场景", "环境", "树林", "风格化"],
+    images: [
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeidvebef6j6x2w5cfajqseqm66idf2ye7ldgnvwkdpr5vl2nlku56q/1.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeidvebef6j6x2w5cfajqseqm66idf2ye7ldgnvwkdpr5vl2nlku56q/2.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeidvebef6j6x2w5cfajqseqm66idf2ye7ldgnvwkdpr5vl2nlku56q/3.jpg",
+    ],
+    downloadUrl: " https://pan.baidu.com/s/10zoQ-Xz_cLjj7Qp7na7xEw?pwd=6mey",
+    demoUrl: "https://www.fab.com/listings/40699a53-2920-41a6-8753-3c004eaa9b92",
+    version: "3.6",
+    ueVersion: "4.27 和 5.0 – 5.7",
+    fileSize: "138.78 MB",
+    createdAt: "2026-03-30",
+    featured: true,
+  },
+  {
     id: "Stone Golem",
     title: "石像鬼",
     description: "石像鬼，高度 3.2 米",
