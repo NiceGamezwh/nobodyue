@@ -70,7 +70,7 @@ export const resources: Resource[] = [
     title: "动态天空系统蓝图",
     description: "Ultra Dynamic Sky 是一款天空系统，其设计理念是比大多数天空解决方案更动态、更自然，提供高度的灵活性和自定义选项，并采用速度快、操作简单的界面。",
     category: "blueprints",
-    tags: ["角色", "运动", "动画", "第三人称", "状态机"],
+    tags: ["蓝图",  "天空系统"],
     images: [
       "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibhnv565homistcvmcjbnexlqay3keb64pw6u6b4gmvxufg6vjcgq/1.jpg",
       "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibhnv565homistcvmcjbnexlqay3keb64pw6u6b4gmvxufg6vjcgq/2.jpg",
