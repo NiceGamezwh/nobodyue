@@ -66,7 +66,7 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
   {
-    id: "Stylized Spruce Forest",
+    id: "Stylized-Spruce-Forest",
     title: "风格化云杉林场景",
     description: "风格化的云杉林，包含优化资源、风系统、程序化季节和可绘制的自动材质。使用材质实例和全局材质参数集合即可轻松自定义。",
     category: "environments",
