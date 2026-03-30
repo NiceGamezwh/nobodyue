@@ -66,6 +66,28 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
   {
+    id: "Medieval-Environment",
+    title: "中世纪环境（山地中世纪、中世纪教堂、中世纪墓地）",
+    description: "Freshcan 3D 与 Yunus Emre Yaman 合作打造的“山地中世纪环境包”将带您沉浸于令人叹为观止的中世纪世界。这款“山地中世纪村庄包”专为创建引人入胜的中世纪游戏关卡和中世纪电影场景而设计，包含高质量的中世纪素材，例如雄伟的中世纪教堂、真实的中世纪房屋以及充满氛围的中世纪墓地。使用模块化的中世纪建筑套件，轻松打造您的奇幻世界，并用各种精细的道具丰富您的场景。2x2公里的景观底座展现了白雪皑皑的山峰、照片扫描的岩石以及茂盛的树木和植被，确保呈现视觉效果惊艳且逼真的环境。无论您是在打造史诗般的中世纪冒险故事，还是电影级杰作，此软件包都能为您提供在虚幻引擎 5 中实现您的愿景所需的一切。",
+    category: "environments",
+    tags: ["场景", "环境", "模块化环境", "山地", "教堂", "墓地", "中世纪"],
+    images: [
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeihcwzm3qzbhcgtiw24eltdnhtnwka2wxrraytlcwwafls4vj4sqwq/1.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeihcwzm3qzbhcgtiw24eltdnhtnwka2wxrraytlcwwafls4vj4sqwq/2.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeihcwzm3qzbhcgtiw24eltdnhtnwka2wxrraytlcwwafls4vj4sqwq/3.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeihcwzm3qzbhcgtiw24eltdnhtnwka2wxrraytlcwwafls4vj4sqwq/4.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeihcwzm3qzbhcgtiw24eltdnhtnwka2wxrraytlcwwafls4vj4sqwq/5.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeihcwzm3qzbhcgtiw24eltdnhtnwka2wxrraytlcwwafls4vj4sqwq/6.jpg",
+    ],
+    downloadUrl: "  https://pan.baidu.com/s/1Tjwd0mIcVVaUdUY3xMLUkA?pwd=gs3c",
+    demoUrl: "https://www.fab.com/listings/8c4e8d0c-9a21-4999-88b2-b969c6d12c2a",
+    version: "1.0",
+    ueVersion: "5.2 - 5.7",
+    fileSize: "4.59 GB",
+    createdAt: "2026-03-26",
+    featured: true,
+  },
+  {
     id: "Ancient-Temple-Ruins-Modular-Environment",
     title: "古代寺庙遗址 - 模块化环境",
     description: "该项目需要 Nanite 和 Lumen，素材的面数密度极高，因此需要高端 PC。项目以第三人称角色控制器运行，帧率在 30fps 到 40fps 之间，采用 Epic 可扩展性预设、70% 渲染比例和启用时间超分辨率 (TSR)。网格中不包含光照贴图或LOD。RTX 2080显卡，Threadripper 1950x处理器，64GB DDR4内存，1440p分辨率，固态硬盘。",
