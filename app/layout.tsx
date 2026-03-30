@@ -11,21 +11,8 @@ export const metadata: Metadata = {
   description: 'NobodyUE - 精选虚幻引擎蓝图、材质、模型、特效等高质量开发资源，助力独立游戏开发',
   generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/logo.jpg',
+    apple: '/logo.jpg',
   },
 }
 
