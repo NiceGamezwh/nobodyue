@@ -123,7 +123,7 @@ export const resources: Resource[] = [
     featured: true,
   },
   {
-    id: "Stone Golem",
+    id: "Stone-Golem",
     title: "石像鬼",
     description: "石像鬼，高度 3.2 米",
     category: "models",
