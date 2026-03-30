@@ -66,6 +66,28 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
   {
+    id: "Fluid-Flux",
+    title: "流体通量",
+    description: "实时浅水模拟——流体数据修改器、波浪生成器和可扩展接口，流体表面渲染——焦散、潮湿、水下、水线、平流泡沫、平流波浪、与海洋融合、动态音频检测。流体交互——简单、廉价的波纹求解器，能够随角色移动，并已优化至绝对最低限度，海浪混合——单次渲染即可完成可平铺的海洋高度图纹理，尼亚加拉瀑布环境互动——高质量特效、弹跳的动画植物、角色游泳、船只 ，简洁、高效、对GPU友好的实现，接口设计遵循KISS（Keep It Simple, Stupid，保持简单）原则。小巧紧凑，占用内存少。一种用于生成超快速静态网格的工具，其中流动贴图已嵌入顶点颜色中。先进的流体状态管理。Niagara流体异步读取系统，用于对蓝图中的高度和流体流量进行采样。动态音频分析仪。声源位置根据流体运动进行定位。四个示例地图——海滩、岛屿、河流和静态河流，采用基于速度的流体流动平流方法，适用于泡沫、焦散和波。水体横截面渲染图，基于波浪剖面技术的大规模非模拟海岸线（最大可达 10x10 公里）及波浪破碎带，基于尼亚加拉的无限网格渲染，水彩画提供高级散布设置和画笔绘制功能，水下基于SLW材质模式，并可适应一天中不同的时间段。独特的水下容积玻璃系统",
+    category: "environments",
+    tags: ["场景", "环境", "水体", "海洋"],
+    images: [
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibr36batebp4givzelydsg2nj22gf6avbzq2wmedp2sg2aa54vbrq/1.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibr36batebp4givzelydsg2nj22gf6avbzq2wmedp2sg2aa54vbrq/2.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibr36batebp4givzelydsg2nj22gf6avbzq2wmedp2sg2aa54vbrq/3.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibr36batebp4givzelydsg2nj22gf6avbzq2wmedp2sg2aa54vbrq/4.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibr36batebp4givzelydsg2nj22gf6avbzq2wmedp2sg2aa54vbrq/5.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibr36batebp4givzelydsg2nj22gf6avbzq2wmedp2sg2aa54vbrq/6.jpg",
+    ],
+    downloadUrl: "  https://pan.baidu.com/s/19px2dXg80kENoIuklwwZuA?pwd=wj1g",
+    demoUrl: "https://www.fab.com/listings/196c70cd-1283-4249-bf6b-c3019d1cbe11",
+    version: "3.0",
+    ueVersion: "4.26 – 4.27 和 5.0 – 5.7",
+    fileSize: "320 MB",
+    createdAt: "2026-03-26",
+    featured: true,
+  },
+  {
     id: "Medieval-Environment",
     title: "中世纪环境（山地中世纪、中世纪教堂、中世纪墓地）",
     description: "Freshcan 3D 与 Yunus Emre Yaman 合作打造的“山地中世纪环境包”将带您沉浸于令人叹为观止的中世纪世界。这款“山地中世纪村庄包”专为创建引人入胜的中世纪游戏关卡和中世纪电影场景而设计，包含高质量的中世纪素材，例如雄伟的中世纪教堂、真实的中世纪房屋以及充满氛围的中世纪墓地。使用模块化的中世纪建筑套件，轻松打造您的奇幻世界，并用各种精细的道具丰富您的场景。2x2公里的景观底座展现了白雪皑皑的山峰、照片扫描的岩石以及茂盛的树木和植被，确保呈现视觉效果惊艳且逼真的环境。无论您是在打造史诗般的中世纪冒险故事，还是电影级杰作，此软件包都能为您提供在虚幻引擎 5 中实现您的愿景所需的一切。",
