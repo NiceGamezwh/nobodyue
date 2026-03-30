@@ -80,7 +80,7 @@ export const resources: Resource[] = [
     demoUrl: "https://www.fab.com/listings/40699a53-2920-41a6-8753-3c004eaa9b92",
     version: "3.6",
     ueVersion: "4.27 和 5.0 – 5.7",
-    fileSize: "138.78 MB",
+    fileSize: "1.44 GB",
     createdAt: "2026-03-30",
     featured: true,
   },
