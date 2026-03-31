@@ -66,6 +66,28 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
     {
+    id: "Ocean-ology-Legacy",
+    title: "最新版写实海洋波浪动态水插件",
+    description: "专业海洋模拟，针对真实游戏硬件进行了优化，历经 7 年以上开发，100% C++ 性能，积极支持和更新，专为玩家实际拥有的 GPU 而打造。《海洋学遗产》提供专业的海洋模拟体验，即使在 GTX 1080 / RTX 3060 级别的硬件上也能流畅运行，这些 GPU 在实际 PC 游戏硬件调查中占据主导地位。我们绝不妥协于质量，也绝不容忍性能上的不足。",
+    category: "plugins",
+    tags: ["插件", "海洋环境", "水体", "海洋", "波浪"],
+    images: [
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeifncjqg46hdndhniyxewdo7cczd6rjdbnmltq6ajp6rdfss4yw7xa/1.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeifncjqg46hdndhniyxewdo7cczd6rjdbnmltq6ajp6rdfss4yw7xa/2.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeifncjqg46hdndhniyxewdo7cczd6rjdbnmltq6ajp6rdfss4yw7xa/3.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeifncjqg46hdndhniyxewdo7cczd6rjdbnmltq6ajp6rdfss4yw7xa/4.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeifncjqg46hdndhniyxewdo7cczd6rjdbnmltq6ajp6rdfss4yw7xa/5.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeifncjqg46hdndhniyxewdo7cczd6rjdbnmltq6ajp6rdfss4yw7xa/6.jpg",
+    ],
+    downloadUrl: "  https://pan.baidu.com/s/15Zdbs8Ym_-9-6UUOJdLNyw?pwd=ks7e",
+    demoUrl: "https://www.fab.com/listings/1cd1f62e-0fa3-48bf-bc60-f0e06010fce3",
+    version: "3.9.0",
+    ueVersion: "4.26 - 5.7",
+    fileSize: "5-10 GB",
+    createdAt: "2026-03-31",
+    featured: true,
+  },
+    {
     id: "Stylized-Sci-Fi-Modern-City",
     title: "风格化的科幻现代城市",
     description: "“风格化科幻现代城市”是一款高质量的模块化资源包，包含各种易于组装的模块化建筑模型和道具。您可以快速切换网格和材质，从而丰富和完善您的游戏环境。",
