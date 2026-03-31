@@ -66,6 +66,25 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
     {
+    id: "Mars-Rover-Simulator",
+    title: "火星探测车模拟器",
+    description: "驾驶火星探测车，穿越火星尘土飞扬的红色平原和岩石嶙峋的山谷。如果您曾梦想探索火星表面，这款模拟器将为您带来逼真的体验，包括精细的探测车机械结构、沉浸式的环境和交互式系统。这款插件采用优化的工作流程设计，可在各种设备上流畅运行，同时还能呈现真实太空任务的视觉效果和体验。从车轮下可变形的地形到电影级的探测车镜头，这款插件包兼具教育性和娱乐性。",
+    category: "models",
+    tags: ["模型", "火星", "模拟器", "火星探测车"],
+    images: [
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeifqdh3o6edvc7yb4ahqhehyzvdniy7wiioxmm4d5ph6jffavq74ci/1.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeifqdh3o6edvc7yb4ahqhehyzvdniy7wiioxmm4d5ph6jffavq74ci/2.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeifqdh3o6edvc7yb4ahqhehyzvdniy7wiioxmm4d5ph6jffavq74ci/3.jpg",
+    ],
+    downloadUrl: "  https://pan.baidu.com/s/18Ibty3yrWZyQDJGRqM69aQ?pwd=zdrc",
+    demoUrl: "https://www.fab.com/listings/fd2038df-c7bc-4c1e-8137-b5cae69e68cb",
+    version: "1.0",
+    ueVersion: "4.26 - 5.7",
+    fileSize: "1.8 GB",
+    createdAt: "2026-03-31",
+    featured: true,
+  },
+    {
     id: "Garden-Flowers-Pack",
     title: "鲜花花朵42种花卉道具素材",
     description: "您将获得 42 个可用于游戏的花园花卉素材：玫瑰 （6 种变体）  445 - 6057 个三角形。牡丹 （7 种变体）  1601 - 8740 个三角形。攀援玫瑰 （16 种变体）497 - 5774 个三角形。海葵 （7 种变体）  126 - 593 个三角形。海葵组（6 种变体）  318 - 1326 个三角形",
