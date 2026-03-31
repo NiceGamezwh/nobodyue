@@ -66,6 +66,28 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
     {
+    id: "Stylized-Sci-Fi-Modern-City",
+    title: "风格化的科幻现代城市",
+    description: "“风格化科幻现代城市”是一款高质量的模块化资源包，包含各种易于组装的模块化建筑模型和道具。您可以快速切换网格和材质，从而丰富和完善您的游戏环境。",
+    category: "environments",
+    tags: ["场景", "环境", "风格化", "科幻现代", "城市"],
+    images: [
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibsgfvibtmgoko6dj77i2ctwpk5r2fqhd733rxwryiqpamvkbfepy/1.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibsgfvibtmgoko6dj77i2ctwpk5r2fqhd733rxwryiqpamvkbfepy/2.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibsgfvibtmgoko6dj77i2ctwpk5r2fqhd733rxwryiqpamvkbfepy/3.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibsgfvibtmgoko6dj77i2ctwpk5r2fqhd733rxwryiqpamvkbfepy/4.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibsgfvibtmgoko6dj77i2ctwpk5r2fqhd733rxwryiqpamvkbfepy/5.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeibsgfvibtmgoko6dj77i2ctwpk5r2fqhd733rxwryiqpamvkbfepy/6.jpg",
+    ],
+    downloadUrl: "  https://pan.baidu.com/s/1YkYA7VdCyup15i7XUpPATg?pwd=u0a0",
+    demoUrl: "https://www.fab.com/listings/f1613842-fb15-469f-b53b-1c6ae84c96cc",
+    version: "1.0",
+    ueVersion: "5.0 – 5.7",
+    fileSize: "3.41 GB",
+    createdAt: "2026-03-31",
+    featured: true,
+  },
+    {
     id: "Chinese-Temple",
     title: "古老中国寺庙环境场景",
     description: "风景如画的地点，一座古老的寺庙被白雪皑皑的竹林和雄伟的群山环绕。精致的建筑、绝妙的光影效果和自然元素营造出一种静谧神秘的氛围。是奇幻、冒险或武侠题材项目的理想之选。",
