@@ -65,6 +65,28 @@ export interface Resource {
 // 资源数据 - 在这里添加新资源
 // ==========================================
 export const resources: Resource[] = [
+    {
+    id: "Chinese-Temple",
+    title: "古老中国寺庙环境场景",
+    description: "风景如画的地点，一座古老的寺庙被白雪皑皑的竹林和雄伟的群山环绕。精致的建筑、绝妙的光影效果和自然元素营造出一种静谧神秘的氛围。是奇幻、冒险或武侠题材项目的理想之选。",
+    category: "environments",
+    tags: ["场景", "环境", "古代", "中国", "寺庙"],
+    images: [
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeicslh6o35uekm6v34yvoykaffwkopfmeq4gucm6cj73phb7mwop6y/1.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeicslh6o35uekm6v34yvoykaffwkopfmeq4gucm6cj73phb7mwop6y/2.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeicslh6o35uekm6v34yvoykaffwkopfmeq4gucm6cj73phb7mwop6y/3.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeicslh6o35uekm6v34yvoykaffwkopfmeq4gucm6cj73phb7mwop6y/4.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeicslh6o35uekm6v34yvoykaffwkopfmeq4gucm6cj73phb7mwop6y/5.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeicslh6o35uekm6v34yvoykaffwkopfmeq4gucm6cj73phb7mwop6y/6.jpg",
+    ],
+    downloadUrl: "  https://pan.baidu.com/s/1IQFEAzltFkaGGXg8meNpJQ?pwd=limi",
+    demoUrl: "https://www.fab.com/listings/19ba7573-3bda-49cd-a951-ad965366ec46",
+    version: "1.0",
+    ueVersion: "5.3 – 5.7",
+    fileSize: "1.7 GB",
+    createdAt: "2026-03-31",
+    featured: true,
+  },
   {
     id: "Fluid-Flux",
     title: "流体通量",
