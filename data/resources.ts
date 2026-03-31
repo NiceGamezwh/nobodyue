@@ -66,6 +66,25 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
     {
+    id: "Ultimate-Fire-Pack",
+    title: "终极火焰大火燃烧特效包",
+    description: "终极火焰特效包 Vol 1，由 ActionVFX 和 Undertone FX, Inc. 出品。ActionVFX拍摄了一些业内最好的火焰特效素材，这些素材曾在无数电影、电视节目和广告中出现过。现在，我们与实时特效专家Undertone FX, Inc.合作，将这段素材导入虚幻引擎。所有纹理均已预先制作成 4K 无缝循环，粒子系统、材质和蓝图也已设置完毕，为您带来前所未有的顶级实时火焰特效，而且使用起来非常便捷，只需拖放即可。Niagara 版本的粒子效果通过蓝图公开了大量参数，因此您可以快速轻松地自定义每个放置的火焰，包括风、烟雾、余烬和生成率。无论您是否有特效经验，这些火焰效果都应该很容易上手。无论您是从事虚拟制作、游戏设计、环境美术还是经验丰富的实时视觉特效艺术家，此素材包都旨在供您使用。所有主要纹理均采用基于光流的运动矢量纹理制作，因此如果您的游戏需要支持慢动作或时间膨胀，火焰将能够完美地进行插值。该材质包的主要火焰纹理共有四种尺寸（超小型、小型、中型、大型），每种尺寸又有四种变体。尼亚加拉系统默认允许每团火焰在四种变体中随机显示，您也可以明确指定所需的变体。因此，如果您要将火焰组合在一起，可以精确指定纹理分布，从而避免重复图案。蓝图和尼亚加拉系统版本之间已关联了 54 个自定义参数，因此每个放置的实例都可以独一无二，避免重复模式。您可以调整光照、扭曲、环境余烬、爆裂余烬和风力。您还可以通过蓝图设置密度、速度、亮度、比例、湍流以及更多参数，从而自定义每个放置的火焰实例。凭借ActionVFX和Undertone FX的综合专业知识和创新能力，我们致力于提供突破游戏开发和虚拟制作极限的素材",
+    category: "vfx",
+    tags: ["特效", "美术", "火焰", "火"],
+    images: [
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeih2y7tst3ahtjotlf6cxfvinupk7ivy2ceyxlrpidjdzgvxcexgfm/1.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeih2y7tst3ahtjotlf6cxfvinupk7ivy2ceyxlrpidjdzgvxcexgfm/2.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeih2y7tst3ahtjotlf6cxfvinupk7ivy2ceyxlrpidjdzgvxcexgfm/3.jpg",
+    ],
+    downloadUrl: "  https://pan.baidu.com/s/1ER4FrMtDseNgJFV9Xc1J6g?pwd=axim",
+    demoUrl: "https://www.fab.com/listings/a6f69c9d-e848-4d9f-8393-560dab1f17de",
+    version: "1.0",
+    ueVersion: "5.3 – 5.7",
+    fileSize: "2.18 GB",
+    createdAt: "2026-03-31",
+    featured: true,
+  },
+    {
     id: "Ocean-ology-Legacy",
     title: "最新版写实海洋波浪动态水插件",
     description: "专业海洋模拟，针对真实游戏硬件进行了优化，历经 7 年以上开发，100% C++ 性能，积极支持和更新，专为玩家实际拥有的 GPU 而打造。《海洋学遗产》提供专业的海洋模拟体验，即使在 GTX 1080 / RTX 3060 级别的硬件上也能流畅运行，这些 GPU 在实际 PC 游戏硬件调查中占据主导地位。我们绝不妥协于质量，也绝不容忍性能上的不足。",
