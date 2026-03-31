@@ -66,6 +66,25 @@ export interface Resource {
 // ==========================================
 export const resources: Resource[] = [
     {
+    id: "Garden-Flowers-Pack",
+    title: "鲜花花朵42种花卉道具素材",
+    description: "您将获得 42 个可用于游戏的花园花卉素材：玫瑰 （6 种变体）  445 - 6057 个三角形。牡丹 （7 种变体）  1601 - 8740 个三角形。攀援玫瑰 （16 种变体）497 - 5774 个三角形。海葵 （7 种变体）  126 - 593 个三角形。海葵组（6 种变体）  318 - 1326 个三角形",
+    category: "models",
+    tags: ["模型", "道具", "鲜花", "花朵", "花卉"],
+    images: [
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeih6gmxewjkrb2rucub2mvfo2b3xwunp5rdqk6nk266q6kupib5amu/1.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeih6gmxewjkrb2rucub2mvfo2b3xwunp5rdqk6nk266q6kupib5amu/2.jpg",
+      "https://olive-electrical-wombat-971.mypinata.cloud/ipfs/bafybeih6gmxewjkrb2rucub2mvfo2b3xwunp5rdqk6nk266q6kupib5amu/3.jpg",
+    ],
+    downloadUrl: "  https://pan.baidu.com/s/1upg_JUcFV9MPji9_GQosNA?pwd=t014",
+    demoUrl: "https://www.fab.com/listings/3efda6b5-448f-4174-94d9-c19d81bbb0c2",
+    version: "1.0",
+    ueVersion: "4.27 - 5.6",
+    fileSize: "33 MB",
+    createdAt: "2026-03-31",
+    featured: true,
+  },
+    {
     id: "Ultimate-Fire-Pack",
     title: "终极火焰大火燃烧特效包",
     description: "终极火焰特效包 Vol 1，由 ActionVFX 和 Undertone FX, Inc. 出品。ActionVFX拍摄了一些业内最好的火焰特效素材，这些素材曾在无数电影、电视节目和广告中出现过。现在，我们与实时特效专家Undertone FX, Inc.合作，将这段素材导入虚幻引擎。所有纹理均已预先制作成 4K 无缝循环，粒子系统、材质和蓝图也已设置完毕，为您带来前所未有的顶级实时火焰特效，而且使用起来非常便捷，只需拖放即可。Niagara 版本的粒子效果通过蓝图公开了大量参数，因此您可以快速轻松地自定义每个放置的火焰，包括风、烟雾、余烬和生成率。无论您是否有特效经验，这些火焰效果都应该很容易上手。无论您是从事虚拟制作、游戏设计、环境美术还是经验丰富的实时视觉特效艺术家，此素材包都旨在供您使用。所有主要纹理均采用基于光流的运动矢量纹理制作，因此如果您的游戏需要支持慢动作或时间膨胀，火焰将能够完美地进行插值。该材质包的主要火焰纹理共有四种尺寸（超小型、小型、中型、大型），每种尺寸又有四种变体。尼亚加拉系统默认允许每团火焰在四种变体中随机显示，您也可以明确指定所需的变体。因此，如果您要将火焰组合在一起，可以精确指定纹理分布，从而避免重复图案。蓝图和尼亚加拉系统版本之间已关联了 54 个自定义参数，因此每个放置的实例都可以独一无二，避免重复模式。您可以调整光照、扭曲、环境余烬、爆裂余烬和风力。您还可以通过蓝图设置密度、速度、亮度、比例、湍流以及更多参数，从而自定义每个放置的火焰实例。凭借ActionVFX和Undertone FX的综合专业知识和创新能力，我们致力于提供突破游戏开发和虚拟制作极限的素材",
