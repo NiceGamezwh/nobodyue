@@ -87,7 +87,7 @@ export const resources: Resource[] = [
         featured: false,
       },
       {
-        id: "Abandoned-Hospital-46+-Assets",
+        id: "Abandoned-Hospital-Assets",
         title: "废弃医院46+资产",
         description: "这是一套包含46个以上高质量资产的废弃医院环境包。资源涵盖了破旧的医疗设备、损坏的家具、墙壁涂鸦、医院走廊和病房等场景元素,配合逼真的材质和灯光效果,非常适合制作恐怖、生存类游戏中的废弃医院场景。",
         category: "environments",
