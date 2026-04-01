@@ -65,6 +65,189 @@ export interface Resource {
 // 资源数据 - 在这里添加新资源
 // ==========================================
 export const resources: Resource[] = [
+    {
+    "id": "Sci-fi-Rooms-and-Corridors-Interior-Kit",
+    "title": "科幻房间和走廊室内套件",
+    "description": "以轨道太空飞船为主题的科幻室内场景模型。它包含房间、走廊、道具和贴花，可使用基于PBR材质的材料创建逼真的几何结构。该套装包含大量硬表面贴花，为大面积表面增添了丰富的视觉效果。",
+    "category": "environments",
+    "tags": [
+      "场景",
+      "环境",
+      "太空",
+      "飞船",
+      "科幻"
+    ],
+    "images": [
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmSDMAJWYrYU2V86fyxpd7S71B47tuxSunjXTsnYKa9S2L/1.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmSDMAJWYrYU2V86fyxpd7S71B47tuxSunjXTsnYKa9S2L/2.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmSDMAJWYrYU2V86fyxpd7S71B47tuxSunjXTsnYKa9S2L/3.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmSDMAJWYrYU2V86fyxpd7S71B47tuxSunjXTsnYKa9S2L/4.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmSDMAJWYrYU2V86fyxpd7S71B47tuxSunjXTsnYKa9S2L/5.jpg"
+    ],
+    "downloadUrl": " https://pan.baidu.com/s/1hinognK0HcEeMoSQUjpZww?pwd=zki2",
+    "demoUrl": "https://www.fab.com/listings/f3e9c40d-a56f-4308-8a78-a1d4f0076f96",
+    "version": "1.0",
+    "ueVersion": "4.26 - 5.6",
+    "fileSize": "1.94GB",
+    "createdAt": "2026-04-01",
+    "featured": false
+  },
+  {
+    "id": "Afghan-Village-Environment",
+    "title": "中东阿富汗乡村环境",
+    "description": "阿富汗村庄环境，包含 255 个独特的网格模型。包含所有展示的高质量资源，细节丰富，并针对游戏项目进行了优化。",
+    "category": "environments",
+    "tags": [
+      "场景",
+      "环境",
+      "阿富汗",
+      "村庄"
+    ],
+    "images": [
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmViaJf72WqX3zU8iSCpigDWPBAykdwRH2dqKjwnQczFfi/1.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmViaJf72WqX3zU8iSCpigDWPBAykdwRH2dqKjwnQczFfi/2.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmViaJf72WqX3zU8iSCpigDWPBAykdwRH2dqKjwnQczFfi/3.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmViaJf72WqX3zU8iSCpigDWPBAykdwRH2dqKjwnQczFfi/4.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmViaJf72WqX3zU8iSCpigDWPBAykdwRH2dqKjwnQczFfi/5.jpg"
+    ],
+    "downloadUrl": " https://pan.baidu.com/s/1qdqAxuVFvLLK-m0a2qDkhw?pwd=5cx7",
+    "demoUrl": "https://www.fab.com/listings/99a6bc0c-4859-46d8-8f92-7357794279e7",
+    "version": "1.0",
+    "ueVersion": "5.0 - 5.6",
+    "fileSize": "1.94GB",
+    "createdAt": "2026-04-01",
+    "featured": false
+  },
+  {
+    "id": "Old-Style-Pharmacist-Laboratory",
+    "title": "老式药剂师实验室",
+    "description": "该模型包含各种材质的网格，用于搭建一个类似某些药店、化学商店和大学里曾经存在的旧式实验室。它由药剂师们合作完成，并参考了他们的记忆和照片。在一些国家仍然可以找到类似的实验室，但配备了更现代化的电子设备。该模型旨在呈现崭新洁净的外观，但部分模型也可用于巫术、炼金术或魔药制作。包含以下物品的网格和材质：• 书架、书籍和衣架 • 工作台 • 旧秤 • 药剂师用来装植物和药膏的罐子 • 研钵和研杵 • 人类头骨模型 • 开放式烹饪区和烤箱 • 盆和玻璃器皿晾干器 • 实验室玻璃器皿（滴定管、量筒、烧瓶、试管……）",
+    "category": "environments",
+    "tags": [
+      "场景",
+      "环境",
+      "药剂",
+      "实验室"
+    ],
+    "images": [
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmY7ndyUtSiXdKiuxwiF4WajvhGyBbSKsKKTH38YzacXRw/1.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmY7ndyUtSiXdKiuxwiF4WajvhGyBbSKsKKTH38YzacXRw/2.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmY7ndyUtSiXdKiuxwiF4WajvhGyBbSKsKKTH38YzacXRw/3.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmY7ndyUtSiXdKiuxwiF4WajvhGyBbSKsKKTH38YzacXRw/4.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmY7ndyUtSiXdKiuxwiF4WajvhGyBbSKsKKTH38YzacXRw/5.jpg"
+    ],
+    "downloadUrl": " https://pan.baidu.com/s/1zyYmOTi8_dkZ0Jk9j0se4A?pwd=uwrf",
+    "demoUrl": "https://www.fab.com/listings/b38b6011-18f8-42d6-9c0d-4eb5574a9d59",
+    "version": "1.0",
+    "ueVersion": "4.26 - 5.6",
+    "fileSize": "654MB",
+    "createdAt": "2026-04-01",
+    "featured": false
+  },
+  {
+    "id": "2-in-1-Nanite-Environment-Bundle-1",
+    "title": "自然环境火山二合一场景",
+    "description": "此套装包含我们“壮丽自然景观”和“火山环境”两大扩展包。“壮丽自然景观”扩展包包含高精度纳米树、草地、灌木、岩石、悬崖和远处的山脉，营造出郁郁葱葱、细节丰富的景观。“火山环境”扩展包则带来高度精细的火山、悬崖、崎岖的岩石、地形以及带有VDB喷发效果的动态阿莱姆比克熔岩流，呈现出震撼人心、身临其境的火山景象。",
+    "category": "environments",
+    "tags": [
+      "场景",
+      "环境",
+      "火山",
+      "自然环境"
+    ],
+    "images": [
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmZsnQtuVoxzn8DNQNCFVqd6Am6DqkrjbjQhvV9GTv5eZo/1.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmZsnQtuVoxzn8DNQNCFVqd6Am6DqkrjbjQhvV9GTv5eZo/2.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmZsnQtuVoxzn8DNQNCFVqd6Am6DqkrjbjQhvV9GTv5eZo/3.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmZsnQtuVoxzn8DNQNCFVqd6Am6DqkrjbjQhvV9GTv5eZo/4.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmZsnQtuVoxzn8DNQNCFVqd6Am6DqkrjbjQhvV9GTv5eZo/5.jpg"
+    ],
+    "downloadUrl": " https://pan.baidu.com/s/1--fHVrOn_F1A5LPt60pwTg?pwd=fe7j",
+    "demoUrl": "https://www.fab.com/listings/6423b41f-d6e3-47e7-a10c-5117f7224af2",
+    "version": "1.0",
+    "ueVersion": "5.3 - 5.6",
+    "fileSize": "12GB",
+    "createdAt": "2026-04-01",
+    "featured": false
+  },
+  {
+    "id": "Alien-Planet-Pack",
+    "title": "卡通外星球地形宇宙飞船道具场景",
+    "description": "外星行星包是一个低多边形环境包，包含 4 个生物群落和 158 个网格！它非常适合低性能手机游戏以及风格化的PC和主机游戏！它包含了沙漠、雪地、热带和天然气四种生物群落类型。",
+    "category": "environments",
+    "tags": [
+      "场景",
+      "外星球",
+      "卡通",
+      "宇宙飞船"
+    ],
+    "images": [
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmWad5nuFEVbG6kq4ytnV5WxyD6AyTPQt96LiUGQ5qh3HQ/1.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmWad5nuFEVbG6kq4ytnV5WxyD6AyTPQt96LiUGQ5qh3HQ/2.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmWad5nuFEVbG6kq4ytnV5WxyD6AyTPQt96LiUGQ5qh3HQ/3.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmWad5nuFEVbG6kq4ytnV5WxyD6AyTPQt96LiUGQ5qh3HQ/4.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmWad5nuFEVbG6kq4ytnV5WxyD6AyTPQt96LiUGQ5qh3HQ/5.jpg"
+    ],
+    "downloadUrl": " https://pan.baidu.com/s/1iaDbfTn5S_InphsPgfrjYw?pwd=u5pz",
+    "demoUrl": "https://www.fab.com/listings/f3faed61-0646-4869-8cef-a857c4d509c4",
+    "version": "1.0",
+    "ueVersion": "4.26 - 5.6",
+    "fileSize": "279MB",
+    "createdAt": "2026-04-01",
+    "featured": false
+  },
+  {
+    "id": "Modular-Sci-Fi-Base-Indoor-Outdoor-Mars-Theme",
+    "title": "模块化科幻基地室内室外火星主题",
+    "description": "高精度科幻模型套件。打造你自己的科幻基地。电影级效果——非常适合逼真的场景构图和沉浸式视频游戏！",
+    "category": "environments",
+    "tags": [
+      "场景",
+      "科幻",
+      "火星",
+      "模块化"
+    ],
+    "images": [
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmbT21uRTd4LtVtnLASy1eWUpJ8EiJr6zBUzo2Te7zH6H6/1.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmbT21uRTd4LtVtnLASy1eWUpJ8EiJr6zBUzo2Te7zH6H6/2.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmbT21uRTd4LtVtnLASy1eWUpJ8EiJr6zBUzo2Te7zH6H6/3.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmbT21uRTd4LtVtnLASy1eWUpJ8EiJr6zBUzo2Te7zH6H6/4.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmbT21uRTd4LtVtnLASy1eWUpJ8EiJr6zBUzo2Te7zH6H6/5.jpg"
+    ],
+    "downloadUrl": " https://pan.baidu.com/s/10CeHfHdj2aS6P3pmusC2dQ?pwd=1k6y",
+    "demoUrl": "https://www.fab.com/listings/f3faed61-0646-4869-8cef-a857c4d509c4",
+    "version": "1.0",
+    "ueVersion": "5.0 - 5.6",
+    "fileSize": "12.29GB",
+    "createdAt": "2026-04-01",
+    "featured": false
+  },
+  {
+    "id": "Abandoned-Cathedral",
+    "title": "恐怖阴森废弃大教堂场景",
+    "description": "一个可直接用于游戏的废弃大教堂，模块化设计，易于组装",
+    "category": "environments",
+    "tags": [
+      "场景",
+      "恐怖",
+      "大教堂",
+      "模块化"
+    ],
+    "images": [
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmYBEcupteQipDpjmnKQ2c2PDQU8uaPaMSFkXjN2qrYtnr/1.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmYBEcupteQipDpjmnKQ2c2PDQU8uaPaMSFkXjN2qrYtnr/2.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmYBEcupteQipDpjmnKQ2c2PDQU8uaPaMSFkXjN2qrYtnr/3.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmYBEcupteQipDpjmnKQ2c2PDQU8uaPaMSFkXjN2qrYtnr/4.jpg",
+      "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmYBEcupteQipDpjmnKQ2c2PDQU8uaPaMSFkXjN2qrYtnr/5.jpg"
+    ],
+    "downloadUrl": " https://pan.baidu.com/s/1uFDZswRviqaispEJ2nuQlQ?pwd=d3sb",
+    "demoUrl": "https://www.fab.com/listings/65a30aeb-8d8f-41c7-af2b-b1bc3db929c3",
+    "version": "1.0",
+    "ueVersion": "5.3 - 5.6",
+    "fileSize": "7GB",
+    "createdAt": "2026-04-01",
+    "featured": false
+  },
       // 1. MAE Beech Forest
     {
       id: "MAE-Beech-Forest",
