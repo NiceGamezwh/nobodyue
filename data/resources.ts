@@ -65,6 +65,189 @@ export interface Resource {
 // 资源数据 - 在这里添加新资源
 // ==========================================
 export const resources: Resource[] = [
+      {
+      id: "MAE-Beech-Forest",
+      title: "MAE山毛榉森林",
+      description: "使用摄影测量和光度植被技术制作的高品质山毛榉森林资源包。所有树木均经过优化,至少包含3级LOD和公告牌(替代物)。高密度
+  森林具有良好的性能优化,所有3D扫描模型均配备与地形和其他3D模型的软混合材质设置。功能包括:AAA级品质森林、动态光照、程序化植被生成、自
+  动坡度混合、蓝图风力系统、4x4演示地图、展示地图、像素深度偏移阴影功能、地形软混合设置。资源列表:8棵山毛榉树,2棵山毛榉幼树,4棵山毛榉
+  树苗,1个枯死山毛榉树干,2个蜂斗菜,2个款冬,4个绿色嚏根草,15棵雄蕨,3棵西方蕨,7块岩石,10块小岩石,4张地图。",
+      category: "environments",
+      tags: ["森林", "山毛榉", "摄影测量", "植被", "自然环境", "树木", "地形", "程序化生成"],
+      images: [
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmdKf5kiD3djn2JrqVrRBdiqbexHTeezZYapTuYonvQVoV/1.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmdKf5kiD3djn2JrqVrRBdiqbexHTeezZYapTuYonvQVoV/2.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmdKf5kiD3djn2JrqVrRBdiqbexHTeezZYapTuYonvQVoV/3.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmdKf5kiD3djn2JrqVrRBdiqbexHTeezZYapTuYonvQVoV/4.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmdKf5kiD3djn2JrqVrRBdiqbexHTeezZYapTuYonvQVoV/5.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmdKf5kiD3djn2JrqVrRBdiqbexHTeezZYapTuYonvQVoV/6.jpg",
+      ],
+      downloadUrl: "https://pan.baidu.com/s/1DA6mWLjw0MyB4MdOP2copw?pwd=abh6",
+      demoUrl: "https://www.fab.com/listings/e8f4e844-fc25-4f8a-80cd-6e03c6bff2f9",
+      version: "1.0",
+      ueVersion: "4.26 - 5.5",
+      fileSize: "9.49 GB",
+      createdAt: "2026-04-01",
+      featured: false,
+    },
+
+    // 2. Stylized Medieval House
+    {
+      id: "Stylized-Medieval-House",
+      title: "风格化中世纪房屋",
+      description: "这个资源包包含了一套用于创建风格化中世纪房屋的小型场景集。包含丰富的模块化建筑资产和高质量道具,适用于奇幻风格的中
+  世纪游戏环境搭建。所有资产均经过优化,可直接用于游戏开发。由AleksandrIvanov制作,评分5.0/5,支持虚幻引擎和UEFN格式。",
+      category: "environments",
+      tags: ["风格化", "中世纪", "房屋", "奇幻", "模块化", "场景", "建筑"],
+      images: [
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmcWurg7LZ8nzRkuTDSHonXHHnQqsNmaKcfSrBDaB85hdg/1.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmcWurg7LZ8nzRkuTDSHonXHHnQqsNmaKcfSrBDaB85hdg/2.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmcWurg7LZ8nzRkuTDSHonXHHnQqsNmaKcfSrBDaB85hdg/3.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmcWurg7LZ8nzRkuTDSHonXHHnQqsNmaKcfSrBDaB85hdg/4.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmcWurg7LZ8nzRkuTDSHonXHHnQqsNmaKcfSrBDaB85hdg/5.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmcWurg7LZ8nzRkuTDSHonXHHnQqsNmaKcfSrBDaB85hdg/6.jpg",
+      ],
+      downloadUrl: "https://pan.baidu.com/s/1YXuVyoxhRuDWJnPfoDAD5g?pwd=ss5k",
+      demoUrl: "https://www.fab.com/listings/f7272cd1-389a-4776-96e4-26fb9c439e5f",
+      version: "1.0",
+      ueVersion: "4.20 - 5.5",
+      fileSize: "483 MB",
+      createdAt: "2026-04-01",
+      featured: false,
+    },
+
+    // 3. Modular Sci-Fi Treatment Station Environment
+    {
+      id: "Modular-Sci-Fi-Treatment-Station-Environment",
+      title: "模块化科幻处理站环境",
+      description: "用于在虚幻引擎中快速搭建科幻处理站场景的资源包,可以为你的项目创建精美的环境,并添加你自己的个人风格。所有资产都是
+  模块化的,用户可以轻松修改,所有组件都经过精心设计,能够完美地组合在一起。评分4.4/5,适合科幻类游戏和影视项目使用。",
+      category: "environments",
+      tags: ["科幻", "模块化", "处理站", "室内环境", "太空", "场景"],
+      images: [
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmXeZbBnvnHxHpD8JLT2MAj9XLQtYtAFeGYQs9A8Cz8ZDt/1.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmXeZbBnvnHxHpD8JLT2MAj9XLQtYtAFeGYQs9A8Cz8ZDt/2.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmXeZbBnvnHxHpD8JLT2MAj9XLQtYtAFeGYQs9A8Cz8ZDt/3.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmXeZbBnvnHxHpD8JLT2MAj9XLQtYtAFeGYQs9A8Cz8ZDt/4.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmXeZbBnvnHxHpD8JLT2MAj9XLQtYtAFeGYQs9A8Cz8ZDt/5.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmXeZbBnvnHxHpD8JLT2MAj9XLQtYtAFeGYQs9A8Cz8ZDt/6.jpg",
+      ],
+      downloadUrl: "https://pan.baidu.com/s/1hTmB9MG7JNFjMlxPuqNF6g?pwd=8m3k",
+      demoUrl: "https://www.fab.com/listings/d8ac4186-78f7-43c7-b21c-04b4dc0901a2",
+      version: "1.0",
+      ueVersion: "4.26 - 5.5",
+      fileSize: "1.41 GB",
+      createdAt: "2026-04-01",
+      featured: false,
+    },
+
+    // 4. Sci-Fi Corridor - Low Poly Environment
+    {
+      id: "Sci-Fi-Corridor-Low-Poly-Environment",
+      title: "科幻走廊-低多边形环境",
+      description: "这款科幻室内资源包包含道具和模块化建筑构件,你可以创建自己的走廊/工业/赛博朋克/未来主义/实验室游戏环境,达到AAA级品
+  质。该环境包采用低多边形风格,配有颜色纹理图集,是低多边形系列的一部分。包含250+个模型:墙壁、地板、天花板、柱子、门、电缆、楼梯、围栏
+  、风扇、发电机、灯具、管道、架子、显示器等。粒子系统包括光束、灰尘、雾气、闪电、烟雾、火花、蒸汽。蓝图包括电缆样条线、门、风扇、发
+  电机、舱口。提供颜色纹理和替代颜色变体纹理。包含大量演示场景和总览地图。贴花包括标志、符号、贴纸、文字、数字。",
+      category: "environments",
+      tags: ["科幻", "走廊", "低多边形", "模块化", "赛博朋克", "未来主义", "室内环境", "工业"],
+      images: [
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmaiXP1pAWKs16V837EwzbXQSkdwPXurKWFij3nrzZBMVn/1.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmaiXP1pAWKs16V837EwzbXQSkdwPXurKWFij3nrzZBMVn/2.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmaiXP1pAWKs16V837EwzbXQSkdwPXurKWFij3nrzZBMVn/3.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmaiXP1pAWKs16V837EwzbXQSkdwPXurKWFij3nrzZBMVn/4.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmaiXP1pAWKs16V837EwzbXQSkdwPXurKWFij3nrzZBMVn/5.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmaiXP1pAWKs16V837EwzbXQSkdwPXurKWFij3nrzZBMVn/6.jpg",
+      ],
+      downloadUrl: "https://pan.baidu.com/s/13buxQSVnKLwSym9sXHbCqg?pwd=st22",
+      demoUrl: "https://www.fab.com/listings/2b0e86b8-e287-4c65-b9c4-e43865e2f2c7",
+      version: "1.0",
+      ueVersion: "5.0 - 5.4",
+      fileSize: "295 MB",
+      createdAt: "2026-04-01",
+      featured: false,
+    },
+
+    // 5. Low Poly Rainforest Pack
+    {
+      id: "Low-Poly-Rainforest-Pack",
+      title: "低多边形热带雨林资源包",
+      description: "包含44个热带树木、灌木、道具和模块化小屋。包括4棵棕榈树,3棵竹子,2棵大树,1棵蕨类植物,3棵地面棕榈,5种地面植物,3种草
+  ,2种大叶植物,1个树根,1条藤蔓(样条线启用),1块岩石,15个模块化小屋组件,3段绳桥(样条线启用),以及2个循环自然音效。所有树木共用一个叶片材
+  质图集和一个树皮材质图集,支持PBR反照率、法线、AO/粗糙度贴图,包含风动画效果。提供移动端材质版本,包含碰撞体和LOD。树木面数76-1840三角
+  面,地面植物面数18-270三角面。",
+      category: "environments",
+      tags: ["低多边形", "热带雨林", "树木", "植物", "模块化小屋", "棕榈树", "竹子", "移动端适配"],
+      images: [
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmSjRXn1Ug73Qkkq7xvT8RtdomVooCgPJ7sruSruGGVCjq/1.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmSjRXn1Ug73Qkkq7xvT8RtdomVooCgPJ7sruSruGGVCjq/2.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmSjRXn1Ug73Qkkq7xvT8RtdomVooCgPJ7sruSruGGVCjq/3.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmSjRXn1Ug73Qkkq7xvT8RtdomVooCgPJ7sruSruGGVCjq/4.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmSjRXn1Ug73Qkkq7xvT8RtdomVooCgPJ7sruSruGGVCjq/5.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmSjRXn1Ug73Qkkq7xvT8RtdomVooCgPJ7sruSruGGVCjq/6.jpg",
+      ],
+      downloadUrl: "https://pan.baidu.com/s/1_cRuOnqQ9JvE90ttUJ6sUA?pwd=tiah",
+      demoUrl: "https://www.fab.com/listings/97bdb315-30a9-46cd-b0f5-77254c52fa56",
+      version: "1.0",
+      ueVersion: "4.15 - 4.27",
+      fileSize: "539 MB",
+      createdAt: "2026-04-01",
+      featured: false,
+    },
+
+    // 6. Suburbs - City Pack
+    {
+      id: "Suburbs-City-Pack",
+      title: "郊区-城市资源包",
+      description:
+  "这个资源包拥有你创建大型郊区/住宅区/社区/城镇区域所需的一切,可以快速且轻松地构建城市场景！工具/蓝图具有直观的UI、详细的文档和全方
+  位的艺术控制。包含大量3D模型、材质、蓝图和其他资产,让你的工作更加轻松,节省数百小时的工作量。你可以非常轻松地自定义几乎所有材质。区
+  域基于纽约市——布鲁克林、布朗克斯、曼哈顿及周边地区的住宅区/社区。包含17个主材质（非常容易自定义）、442个材质实例、4个材质参数集合和
+  2个材质函数。蓝图涵盖道路、人行道、屋顶/地板、交通灯、贴花、横幅、背景建筑、模块化建筑、围栏和电线。最新更新支持Nanite和Lumen优化。
+  ",
+      category: "environments",
+      tags: ["城市", "郊区", "住宅区", "社区", "纽约", "模块化建筑", "蓝图工具", "街道"],
+      images: [
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmQGsfERiYg3UA5RD4ZvxMgPjjYbrmxXQQWWNJdC5ruZaB/1.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmQGsfERiYg3UA5RD4ZvxMgPjjYbrmxXQQWWNJdC5ruZaB/2.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmQGsfERiYg3UA5RD4ZvxMgPjjYbrmxXQQWWNJdC5ruZaB/3.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmQGsfERiYg3UA5RD4ZvxMgPjjYbrmxXQQWWNJdC5ruZaB/4.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmQGsfERiYg3UA5RD4ZvxMgPjjYbrmxXQQWWNJdC5ruZaB/5.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmQGsfERiYg3UA5RD4ZvxMgPjjYbrmxXQQWWNJdC5ruZaB/6.jpg",
+      ],
+      downloadUrl: "https://pan.baidu.com/s/1g19eMK6zOwL-uOrS7PQT0g?pwd=rm94",
+      demoUrl: "https://www.fab.com/listings/e0a47000-a60c-487e-b432-c22f6f345760",
+      version: "1.0",
+      ueVersion: "5.1 - 5.7",
+      fileSize: "2.72 GB",
+      createdAt: "2026-04-01",
+      featured: false,
+    },
+
+    // 7. Stone Church
+    {
+      id: "Stone-Church",
+      title: "石头教堂",
+      description: "这是一个高质量的石头教堂环境资源包,包含精细的教堂建筑模型和内部装饰。所有模型均经过精心制作,适合用于中世纪、奇幻
+  或历史题材的游戏和影视项目。资源包含详细的建筑结构、室内装饰、彩色玻璃窗、石墙纹理以及周围的环境道具,可以快速搭建逼真的教堂场景。",
+      category: "environments",
+      tags: ["教堂", "石头建筑", "中世纪", "建筑", "室内", "奇幻", "历史"],
+      images: [
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmZASxn7zSRmmX7PPpAwruJHXT4XLRQP3GbKH97D7kyKg8/1.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmZASxn7zSRmmX7PPpAwruJHXT4XLRQP3GbKH97D7kyKg8/2.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmZASxn7zSRmmX7PPpAwruJHXT4XLRQP3GbKH97D7kyKg8/3.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmZASxn7zSRmmX7PPpAwruJHXT4XLRQP3GbKH97D7kyKg8/4.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmZASxn7zSRmmX7PPpAwruJHXT4XLRQP3GbKH97D7kyKg8/5.jpg",
+        "https://tomato-total-lark-322.mypinata.cloud/ipfs/QmZASxn7zSRmmX7PPpAwruJHXT4XLRQP3GbKH97D7kyKg8/6.jpg",
+      ],
+      downloadUrl: "https://pan.baidu.com/s/1uiiJH4Ks2Mqex_HOE9iAVw?pwd=4cyk",
+      demoUrl: "https://www.fab.com/listings/c2d7ff21-92af-48ca-9111-914454a682b7",
+      version: "1.0",
+      ueVersion: "5.0 - 5.5",
+      fileSize: "735 MB",
+      createdAt: "2026-04-01",
+      featured: false,
+    },
     {
     id: "Mars-Rover-Simulator",
     title: "火星探测车模拟器",
